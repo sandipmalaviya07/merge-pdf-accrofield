@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\MergePDFAcroFields\MergePDFAcroFields.Service\bin\Debug\netstandard2.0\MergePDFAcroFields.Service.deps.json
+C:\Users\Admin\source\repos\MergePDFAcroFields\MergePDFAcroFields.Service\bin\Debug\netstandard2.0\MergePDFAcroFields.Service.dll
+C:\Users\Admin\source\repos\MergePDFAcroFields\MergePDFAcroFields.Service\bin\Debug\netstandard2.0\MergePDFAcroFields.Service.pdb
+C:\Users\Admin\source\repos\MergePDFAcroFields\MergePDFAcroFields.Service\bin\Debug\netstandard2.0\MergePDFAcroFields.Model.dll
+C:\Users\Admin\source\repos\MergePDFAcroFields\MergePDFAcroFields.Service\bin\Debug\netstandard2.0\MergePDFAcroFields.Model.pdb
+C:\Users\Admin\source\repos\MergePDFAcroFields\MergePDFAcroFields.Service\obj\Debug\netstandard2.0\MergePDFAcroFields.Service.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\MergePDFAcroFields\MergePDFAcroFields.Service\obj\Debug\netstandard2.0\MergePDFAcroFields.Service.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MergePDFAcroFields\MergePDFAcroFields.Service\obj\Debug\netstandard2.0\MergePDFAcroFields.Service.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\MergePDFAcroFields\MergePDFAcroFields.Service\obj\Debug\netstandard2.0\MergePDFAcroFields.Service.AssemblyInfo.cs
+C:\Users\Admin\source\repos\MergePDFAcroFields\MergePDFAcroFields.Service\obj\Debug\netstandard2.0\MergePDFAcroFields.Service.csproj.CopyComplete
+C:\Users\Admin\source\repos\MergePDFAcroFields\MergePDFAcroFields.Service\obj\Debug\netstandard2.0\MergePDFAcroFields.Service.dll
+C:\Users\Admin\source\repos\MergePDFAcroFields\MergePDFAcroFields.Service\obj\Debug\netstandard2.0\MergePDFAcroFields.Service.pdb

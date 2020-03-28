@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergePDFAcroFields", "MergePDFAcroFields\MergePDFAcroFields.csproj", "{00C976B3-FE91-4E55-9621-340CE5484768}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergePDFAcroFields.Model", "MergePDFAcroFields.Model\MergePDFAcroFields.Model.csproj", "{4B8AB183-9B92-4587-9A5B-6A32934EC03E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergePDFAcroFields.Service", "MergePDFAcroFields.Service\MergePDFAcroFields.Service.csproj", "{F5850156-6247-46BE-8136-5ADCD4BC8D50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00C976B3-FE91-4E55-9621-340CE5484768}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00C976B3-FE91-4E55-9621-340CE5484768}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00C976B3-FE91-4E55-9621-340CE5484768}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00C976B3-FE91-4E55-9621-340CE5484768}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B8AB183-9B92-4587-9A5B-6A32934EC03E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B8AB183-9B92-4587-9A5B-6A32934EC03E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B8AB183-9B92-4587-9A5B-6A32934EC03E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B8AB183-9B92-4587-9A5B-6A32934EC03E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5850156-6247-46BE-8136-5ADCD4BC8D50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5850156-6247-46BE-8136-5ADCD4BC8D50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5850156-6247-46BE-8136-5ADCD4BC8D50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5850156-6247-46BE-8136-5ADCD4BC8D50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E6A7B33-B4E9-4E05-95B7-92EA6B129874}
+	EndGlobalSection
+EndGlobal
